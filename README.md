@@ -4,7 +4,7 @@
 - 💞️ Curto bastante programação, tenho prática em java e estou  iniciando em python
 - 📫 Estou interessado em estágio em análise de requisitos
 - Meu objetivo é aprender e obter o melhor conhecimento, a prática é o melhor caminho para se conquistar o que deseja
-- Busco me tornar um profissional altamente qualificado na área e agregar com meus conhecimentos  
+- Almejo ser um profissional de análise de requisitos altamente qualificado e poder agregar com meus conhecimentos  
 
 <!---
 Metuzael/Metuzael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
